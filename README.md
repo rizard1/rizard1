@@ -1,9 +1,7 @@
 # About Me 👋
 
-- 🔭 I’m currently working on freecodecamp data analysis project
-- 🌱 I’m currently full stack developer
+- 🌱 I’m currently learning full stack developer
 - 🤔 I’m looking for help with my code
-- 📫 You can reach me through my email
 <!-- **rizard1/rizard1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
